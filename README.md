@@ -14,25 +14,26 @@ A streamlined, high-performance desktop application designed to extract deep met
 ## 🚀 Quick Start
 
 ### Prerequisites
-- Python 3.10 or higher
+- Python 3.10+
 - PyPDF2
 - CustomTkinter
 
 ### Installation
-1. Clone the repository:
+1. **Clone the repository:**
    ```bash
    git clone [https://github.com/rajababarofficial/PDF-Metadata-Extraction-Pro.git](https://github.com/rajababarofficial/PDF-Metadata-Extraction-Pro.git)
+   cd PDF-Metadata-Extraction-Pro
 
 ```
 
-2. Install dependencies:
+2. **Install dependencies:**
 ```bash
 pip install customtkinter PyPDF2
 
 ```
 
 
-3. Run the script:
+3. **Run the script:**
 ```bash
 python Script.py
 
@@ -48,4 +49,4 @@ python Script.py
 
 ## ⚖️ License
 
-This project is licensed under the MIT License - see the [LICENSE](https://www.google.com/search?q=LICENSE) file for details.
+This project is licensed under the MIT License.
