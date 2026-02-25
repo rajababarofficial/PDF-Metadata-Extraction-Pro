@@ -21,7 +21,7 @@ A streamlined, high-performance desktop application designed to extract deep met
 ### Installation
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/rajababarofficial/PDF-Metadata-Extraction-Pro.git](https://github.com/rajababarofficial/PDF-Metadata-Extraction-Pro.git)
+   git clone https://github.com/rajababarofficial/PDF-Metadata-Extraction-Pro.git
    cd PDF-Metadata-Extraction-Pro
 
 ```
