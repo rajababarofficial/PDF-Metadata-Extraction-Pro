@@ -3,7 +3,9 @@
 A high-performance desktop utility built to extract, analyze, and structure deep metadata from multiple PDF files simultaneously. Designed for digitization professionals, archivists, researchers, and data managers who require speed, accuracy, and structured export compatibility.
 
 ---
-
+<p align="center">
+  <img src="screenshot.png" alt="PDF Metadata Extraction Pro Interface" width="600">
+</p>
 ## ✨ Core Features
 
 ### 🖥 Modern GUI
